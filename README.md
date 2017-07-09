@@ -33,4 +33,6 @@ Disavantages: No key rotation, no Key protection, required to sync them on a Web
    No more Machine key system. 
    * ** Data Protection API** - Key per application, Ket rotation - default 90 days.
    
+   
+  Some good reads: http://robertheaton.com/2014/03/27/how-does-https-actually-work/
 
