@@ -35,4 +35,7 @@ Disavantages: No key rotation, no Key protection, required to sync them on a Web
    
    
   Some good reads: http://robertheaton.com/2014/03/27/how-does-https-actually-work/
+  
+  How CORS work: https://www.html5rocks.com/en/tutorials/cors/
+  https://www.html5rocks.com/static/images/cors_server_flowchart.png
 
