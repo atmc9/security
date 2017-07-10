@@ -41,6 +41,6 @@ Disavantages: No key rotation, no Key protection, required to sync them on a Web
   
   ![CORS Server FlowChar](https://www.html5rocks.com/static/images/cors_server_flowchart.png)
   
-  ![CORS FlowChar](https://en.wikipedia.org/wiki/File:Flowchart_showing_Simple_and_Preflight_XHR.svg)
+  ![CORS FlowChar](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flowchart_showing_Simple_and_Preflight_XHR.svg/512px-Flowchart_showing_Simple_and_Preflight_XHR.svg.png)
   
 
